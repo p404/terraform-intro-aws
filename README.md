@@ -1,11 +1,11 @@
-## Terraform
-Terraform is a tool for
+## Terraform-intro-aws
+Terraform is a tool for:
 
 * Building,
 * Changing, and
 * Versioning
 
-*** Your Infrastructure***
+***Your Infrastructure***
 
 Terraform **can manage existing and popular service providers.** 
 
@@ -53,8 +53,7 @@ Configuration files describe to Terraform the components needed to run a single 
 
 
 
-The MIT License (MIT)
-=====================
+### The MIT License (MIT)
 
 Copyright © `2017` `Pablo Opazo`
 
